@@ -49,7 +49,7 @@ https://github.com/danmadeira/simple-icon-badges
 리뷰 문장의 길이 <br>
 연도별, 장소별 등등 데이터의 부가정보를 바탕으로 데이터를 탐색 (pandas, matplotlib)
 맥도날드 별점 리뷰 분포표 <br>
-<img src='data/맥도날드 리뷰 별점 분포표.png'>
+<img src='https://github.com/yj021225/capstone/blob/acfd585aefb0fabf46567825427c27e2b3a082cb/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%B3%84%EC%A0%90%20%EB%B6%84%ED%8F%AC%ED%91%9C.png'>
 
 ## 3. 학습 데이터 구축
 
