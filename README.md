@@ -42,14 +42,13 @@ https://github.com/danmadeira/simple-icon-badges
 | 2 | McDonald's | Fast food restaurant | "13749 US-183 Hwy... | 30.4607176 | -97.7928744 | "1,240" | 5 days ago | "It'd McDonalds. It is what it is as far... | 4 stars |
 | 3 | McDonald's | Fast food restaurant | "13749 US-183 Hwy... | 30.4607176 | -97.7928744 | "1,240" | 5 days ago | "Made a mobile order got to the speaker and checked it in. |
 ### 2.2 추출한 데이터
-가게명, 분류, 위도, 적도, 별점_개수등 필요없는 칼럼등을 제외하고 <br>
-리뷰중에서 식별할 수 없는 글자들을 제거하였다. <br>
+<img src='https://github.com/yj021225/capstone/blob/3e594406d94432b1a56214f40db66e11b960a755/data/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EA%B0%80%EA%B2%8C%EA%B0%9C%EC%88%98.png'><br>
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 1~5점 척도인 경우에는 분포 <br>
 리뷰 문장의 길이 <br>
 연도별, 장소별 등등 데이터의 부가정보를 바탕으로 데이터를 탐색 (pandas, matplotlib)
 맥도날드 별점 리뷰 분포표 <br>
-<img src='https://github.com/yj021225/capstone/blob/acfd585aefb0fabf46567825427c27e2b3a082cb/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%B3%84%EC%A0%90%20%EB%B6%84%ED%8F%AC%ED%91%9C.png'>
+<img src='https://github.com/yj021225/capstone/blob/acfd585aefb0fabf46567825427c27e2b3a082cb/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%B3%84%EC%A0%90%20%EB%B6%84%ED%8F%AC%ED%91%9C.png'><br>
 
 ## 3. 학습 데이터 구축
 
