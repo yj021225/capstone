@@ -43,6 +43,7 @@ https://github.com/danmadeira/simple-icon-badges
 | 3 | McDonald's | Fast food restaurant | "13749 US-183 Hwy... | 30.4607176 | -97.7928744 | "1,240" | 5 days ago | "Made a mobile order got to the speaker and checked it in. |
 ### 2.2 추출한 데이터
 <img src='https://github.com/yj021225/capstone/blob/3e594406d94432b1a56214f40db66e11b960a755/data/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EA%B0%80%EA%B2%8C%EA%B0%9C%EC%88%98.png'><br>
+<img src='https://github.com/yj021225/capstone/blob/c19244fb814ac38c34c6116f4228404abec9bb05/data/%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%B3%84%EC%A0%90%EB%B3%84%EA%B0%9C%EC%88%98.png'><br>
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 1~5점 척도인 경우에는 분포 <br>
 리뷰 문장의 길이 <br>
