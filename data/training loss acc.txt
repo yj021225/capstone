@@ -1,0 +1,200 @@
+Epoch 1 / 4
+Training
+step : 10, loss : 150382.953125
+step : 20, loss : 111687.78125
+step : 30, loss : 33079.5859375
+step : 40, loss : 0.0
+- Batch 50 of 338, Elapsed time: 0:01:48
+step : 50, loss : 3327.18896484375
+step : 60, loss : 261.3748779296875
+step : 70, loss : 86.388916015625
+step : 80, loss : 1.4404325485229492
+step : 90, loss : 1.061098337173462
+- Batch 100 of 338, Elapsed time: 0:03:57
+step : 100, loss : 1.7781857252120972
+step : 110, loss : 18.29138946533203
+step : 120, loss : 1.2972434759140015
+step : 130, loss : 6.480362415313721
+step : 140, loss : 18.3477783203125
+- Batch 150 of 338, Elapsed time: 0:05:49
+step : 150, loss : 4.551286220550537
+step : 160, loss : 1.6579986810684204
+step : 170, loss : 1.2969149351119995
+step : 180, loss : 1.1718753576278687
+step : 190, loss : 0.5745505690574646
+- Batch 200 of 338, Elapsed time: 0:07:40
+step : 200, loss : 0.9912940263748169
+step : 210, loss : 0.5761943459510803
+step : 220, loss : 0.807073712348938
+step : 230, loss : 0.34381839632987976
+step : 240, loss : 0.14591525495052338
+- Batch 250 of 338, Elapsed time: 0:09:31
+step : 250, loss : 0.240413099527359
+step : 260, loss : 0.3327929675579071
+step : 270, loss : 0.26735609769821167
+step : 280, loss : 0.2545713782310486
+step : 290, loss : 0.7205756902694702
+- Batch 300 of 338, Elapsed time: 0:11:22
+step : 300, loss : 0.2417348176240921
+step : 310, loss : 0.00859296415001154
+step : 320, loss : 0.225284144282341
+step : 330, loss : 0.9460822343826294
+Average training loss : 46248.7190625379
+Training time of epoch 0 : 0:12:46
+
+\Validation
+Validation accuracy : 0.9078947368421053
+Validation time of epoch 0 : 0:00:33
+
+
+Epoch 2 / 4
+Training
+step : 10, loss : 0.0032332991249859333
+step : 20, loss : 0.8450408577919006
+step : 30, loss : 0.5446413159370422
+step : 40, loss : 0.03214460611343384
+- Batch 50 of 338, Elapsed time: 0:01:51
+step : 50, loss : 0.32380861043930054
+step : 60, loss : 0.0058202482759952545
+step : 70, loss : 0.028853625059127808
+step : 80, loss : 0.940342903137207
+step : 90, loss : 0.49756571650505066
+- Batch 100 of 338, Elapsed time: 0:03:43
+step : 100, loss : 0.006455643102526665
+step : 110, loss : 0.734903872013092
+step : 120, loss : 0.005436475854367018
+step : 130, loss : 0.09928644448518753
+step : 140, loss : 0.05120242014527321
+- Batch 150 of 338, Elapsed time: 0:05:34
+step : 150, loss : 0.5456871390342712
+step : 160, loss : 0.29050201177597046
+step : 170, loss : 1.220839023590088
+step : 180, loss : 0.12826085090637207
+step : 190, loss : 0.41600939631462097
+- Batch 200 of 338, Elapsed time: 0:07:26
+step : 200, loss : 0.012777674943208694
+step : 210, loss : 0.7643703818321228
+step : 220, loss : 0.0025978798512369394
+step : 230, loss : 0.1359112709760666
+step : 240, loss : 0.00036836392246186733
+- Batch 250 of 338, Elapsed time: 0:09:17
+step : 250, loss : 0.10832111537456512
+step : 260, loss : 0.14443880319595337
+step : 270, loss : 0.02042345143854618
+step : 280, loss : 0.058918580412864685
+step : 290, loss : 0.030711732804775238
+- Batch 300 of 338, Elapsed time: 0:11:09
+step : 300, loss : 0.001178379519842565
+step : 310, loss : 0.30027517676353455
+step : 320, loss : 0.647568941116333
+step : 330, loss : 0.14599955081939697
+Average training loss : 0.4620897766965932
+Training time of epoch 1 : 0:12:33
+
+\Validation
+Validation accuracy : 0.9243421052631579
+Validation time of epoch 1 : 0:00:33
+
+
+Epoch 3 / 4
+Training
+step : 10, loss : 0.004360813181847334
+step : 20, loss : 0.002671189373359084
+step : 30, loss : 0.0011816973565146327
+step : 40, loss : 0.34270814061164856
+- Batch 50 of 338, Elapsed time: 0:01:52
+step : 50, loss : 0.3353149890899658
+step : 60, loss : 0.0718003511428833
+step : 70, loss : 0.7116426229476929
+step : 80, loss : 1.3642189502716064
+step : 90, loss : 0.000614037795457989
+- Batch 100 of 338, Elapsed time: 0:03:44
+step : 100, loss : 0.005221151281148195
+step : 110, loss : 0.974267840385437
+step : 120, loss : 0.0007799153681844473
+step : 130, loss : 0.006746165920048952
+step : 140, loss : 1.2225260734558105
+- Batch 150 of 338, Elapsed time: 0:05:35
+step : 150, loss : 0.001007719081826508
+step : 160, loss : 0.000806407886557281
+step : 170, loss : 0.016088666394352913
+step : 180, loss : 0.013918773271143436
+step : 190, loss : 0.3552616238594055
+- Batch 200 of 338, Elapsed time: 0:07:26
+step : 200, loss : 0.0007973019382916391
+step : 210, loss : 0.0012276587076485157
+step : 220, loss : 0.016367832198739052
+step : 230, loss : 0.00028870051028206944
+step : 240, loss : 0.004707074258476496
+- Batch 250 of 338, Elapsed time: 0:09:18
+step : 250, loss : 0.0010546529665589333
+step : 260, loss : 0.329319566488266
+step : 270, loss : 0.4487244784832001
+step : 280, loss : 0.44610491394996643
+step : 290, loss : 0.6511290073394775
+- Batch 300 of 338, Elapsed time: 0:11:10
+step : 300, loss : 0.0041620670817792416
+step : 310, loss : 0.0018916395492851734
+step : 320, loss : 0.9062666296958923
+step : 330, loss : 0.05919354781508446
+Average training loss : 0.23930429043783874
+Training time of epoch 2 : 0:12:33
+
+\Validation
+Validation accuracy : 0.9276315789473685
+Validation time of epoch 2 : 0:00:33
+
+
+Epoch 4 / 4
+Training
+step : 10, loss : 0.6088196635246277
+step : 20, loss : 0.0033927441108971834
+step : 30, loss : 0.03299444168806076
+step : 40, loss : 0.17046299576759338
+- Batch 50 of 338, Elapsed time: 0:01:51
+step : 50, loss : 0.0001743233297020197
+step : 60, loss : 0.02581467293202877
+step : 70, loss : 0.9696714282035828
+step : 80, loss : 0.5201003551483154
+step : 90, loss : 3.869658394251019e-05
+- Batch 100 of 338, Elapsed time: 0:03:43
+step : 100, loss : 0.2222898304462433
+step : 110, loss : 0.000437612587120384
+step : 120, loss : 0.002020958112552762
+step : 130, loss : 0.0002218666486442089
+step : 140, loss : 0.5274776816368103
+- Batch 150 of 338, Elapsed time: 0:05:34
+step : 150, loss : 0.000927655550185591
+step : 160, loss : 0.006499606184661388
+step : 170, loss : 0.0013745606411248446
+step : 180, loss : 0.024630215018987656
+step : 190, loss : 0.0007204319117590785
+- Batch 200 of 338, Elapsed time: 0:07:25
+step : 200, loss : 0.003533724695444107
+step : 210, loss : 0.15253181755542755
+step : 220, loss : 0.0020254384726285934
+step : 230, loss : 1.3257436752319336
+step : 240, loss : 0.005985225085169077
+- Batch 250 of 338, Elapsed time: 0:09:17
+step : 250, loss : 0.276486873626709
+step : 260, loss : 0.30474114418029785
+step : 270, loss : 1.157082438468933
+step : 280, loss : 0.00039717991603538394
+step : 290, loss : 0.0013293629745021462
+- Batch 300 of 338, Elapsed time: 0:11:08
+step : 300, loss : 0.0008346200920641422
+step : 310, loss : 0.8431520462036133
+step : 320, loss : 0.003436664119362831
+step : 330, loss : 0.0156300887465477
+Average training loss : 0.21607747464141006
+Training time of epoch 3 : 0:12:31
+
+\Validation
+Validation accuracy : 0.930921052631579
+Validation time of epoch 3 : 0:00:33
+
+Save Model
+
+Finish
+
+Process finished with exit code 0
