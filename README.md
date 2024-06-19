@@ -57,9 +57,9 @@ https://github.com/danmadeira/simple-icon-badges
 맥도날드 리뷰 데이터셋에서 'review' 열만 남기고 긍부정을 구분하는 'label'열을 추가한 뒤 <br>
 'rating'열 값이 '3 stars' 값이랑 결측 값은 제외하고 '1 star'값이랑 '2 stars'값은 부정을 나타내는 <br>
 '0'값을 주고 '4 stars' 값이랑 '5 stars'값은 긍정을 나타내는 '1'값을 부여한다. <br>
-[McDonald'sReviews_labeled.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_labeled.csv)
-[McDonald'sReviews_labeled_balanced.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_labeled_balanced.csv)
-[McDonald'sReviews_processed.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_processed.csv)
+[McDonald'sReviews_labeled.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_labeled.csv) <br>
+[McDonald'sReviews_labeled_balanced.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_labeled_balanced.csv) <br>
+[McDonald'sReviews_processed.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_processed.csv) <br>
 - 데이터 예시 <br>
 
 | review | label |
