@@ -29,7 +29,7 @@ https://github.com/danmadeira/simple-icon-badges
 
 ## 2. 데이터
 ### 2.1 원시 데이터
-[McDonald's Reviews.csv](https://github.com/yj021225/capstone/blob/0607e92bb928115a5359a3c7774d3adfcd6c747a/BERT/McDonald'sReviews.csv)
+[McDonald'sReviews.csv](https://github.com/yj021225/capstone/blob/0607e92bb928115a5359a3c7774d3adfcd6c747a/BERT/McDonald'sReviews.csv)
 
 | reviewer_id | store_name | category | store_address | latitude | longitude | rating_count | review_time | review | rating |
 |-------------|------------|----------|---------------|----------|-----------|--------------|-------------|--------|--------|
