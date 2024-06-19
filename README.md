@@ -51,11 +51,15 @@ https://github.com/danmadeira/simple-icon-badges
 <img src='data/맥도날드 리뷰 별점 분포표.png'> <br>
 맥도날드 주별 리뷰 개수를 나타내는 미국지도 데이터가 없는 하와이나 알래스카등 부속도서는 제외 <br>
 <img src='data/맥도날드 주별 리뷰 개수 미국지도.png'> <br>
+[mcdonalds_reviews_with_predictions.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/mcdonalds_reviews_with_predictions.csv)
 
 ## 3. 학습 데이터 구축
 맥도날드 리뷰 데이터셋에서 'review' 열만 남기고 긍부정을 구분하는 'label'열을 추가한 뒤 <br>
 'rating'열 값이 '3 stars' 값이랑 결측 값은 제외하고 '1 star'값이랑 '2 stars'값은 부정을 나타내는 <br>
 '0'값을 주고 '4 stars' 값이랑 '5 stars'값은 긍정을 나타내는 '1'값을 부여한다. <br>
+[McDonald'sReviews_labeled.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_labeled.csv)
+[McDonald'sReviews_labeled_balanced.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_labeled_balanced.csv)
+[McDonald'sReviews_processed.csv](https://github.com/yj021225/capstone/blob/f5520edc024e5470f8f4d8f34bd0c62af9e9ee9f/BERT/McDonald'sReviews_processed.csv)
 - 데이터 예시 <br>
 
 | review | label |
